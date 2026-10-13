@@ -1,0 +1,319 @@
+[
+  {
+    "id": "tg_burn",
+    "name": "燃烧 {VAL}",
+    "description": "命中时，该武器对目标造成 {VAL} 燃烧；目标立即承受等量燃烧伤害（忽略装甲），并在角色卡上标记 {VAL} 燃烧。回合结束时，标记燃烧的角色进行工程检定，成功清除标记，失败则承受等同总标记值的伤害。"
+  },
+  {
+    "id": "tg_heat_target",
+    "name": "热量 {VAL}（目标）",
+    "description": "命中时，该武器或系统使目标获得 {VAL} 热量。"
+  },
+  {
+    "id": "tg_line",
+    "name": "线形 {VAL}",
+    "description": "该武器的攻击影响一条长度为 {VAL} 空间的直线。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_cone",
+    "name": "锥形 {VAL}",
+    "description": "该武器的攻击影响长度为 {VAL}、末端宽度为 {VAL} 的锥形区域，起点宽度为1。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_blast",
+    "name": "爆炸 {VAL}",
+    "description": "该武器的攻击影响射程和视线内一点周围半径 {VAL} 的角色；掩护和视线以爆炸中心计算。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_burst",
+    "name": "爆发 {VAL}",
+    "description": "该武器的攻击影响以使用者（或目标）空间为中心、半径 {VAL} 的区域；持续效果随中心角色移动。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_accurate",
+    "name": "精准",
+    "description": "使用该武器进行的攻击获得 +1 准度。"
+  },
+  {
+    "id": "tg_arcing",
+    "name": "弧线",
+    "description": "该武器可越过障碍发射；只要能追踪路径就不要求视线，但仍受掩护影响。"
+  },
+  {
+    "id": "tg_ap",
+    "name": "穿甲（AP）",
+    "description": "该武器造成的伤害忽略装甲。"
+  },
+  {
+    "id": "tg_inaccurate",
+    "name": "不精准",
+    "description": "使用该武器进行的攻击获得 +1 难度。"
+  },
+  {
+    "id": "tg_knockback",
+    "name": "击退 {VAL}",
+    "description": "命中时，使用者可将目标沿远离起点的直线击退 {VAL} 空间；多个击退效果叠加。"
+  },
+  {
+    "id": "tg_loading",
+    "name": "装填",
+    "description": "该武器每次使用后都必须装填；机甲可通过稳住阵脚或部分系统装填。"
+  },
+  {
+    "id": "tg_ordnance",
+    "name": "军械",
+    "description": "该武器只能在使用者移动或进行其他动作前发射（协议除外）；交战中的目标不能成为目标，也不能用于守望。"
+  },
+  {
+    "id": "tg_overkill",
+    "name": "杀绝",
+    "description": "掷该武器伤害时，掷出1的骰子使攻击者受到1热量并重掷；后续的1仍触发此效果。"
+  },
+  {
+    "id": "tg_overshield",
+    "name": "护盾",
+    "description": "该系统提供场景结束或满足指定条件时消失的额外HP；只保留最高值，不可叠加，伤害先扣除护盾。"
+  },
+  {
+    "id": "tg_reliable",
+    "name": "可靠 {VAL}",
+    "description": "即使未命中或伤害掷骰较低，该武器也总是造成 {VAL} 伤害；可靠伤害继承穿甲等伤害标签。"
+  },
+  {
+    "id": "tg_seeking",
+    "name": "追踪",
+    "description": "该武器具有有限的自动寻的能力；只要能追踪路径，就忽略掩护且不要求视线。"
+  },
+  {
+    "id": "tg_smart",
+    "name": "智能",
+    "description": "该武器的攻击使用目标的电子防御而非回避；没有电子防御的目标视为8。"
+  },
+  {
+    "id": "tg_threat",
+    "name": "威胁 {VAL}",
+    "description": "该武器可在 {VAL} 空间内进行守望攻击；若为近战武器，可在 {VAL} 空间内进行近战攻击。"
+  },
+  {
+    "id": "tg_thrown",
+    "name": "投掷 {VAL}",
+    "description": "该近战武器可投掷至 {VAL} 空间内的目标；投掷后须在邻近空间以自由动作取回。"
+  },
+  {
+    "id": "tg_turn",
+    "name": "{VAL}/回合",
+    "description": "该系统、特征或反应每回合最多使用 {VAL} 次。"
+  },
+  {
+    "id": "tg_round",
+    "name": "{VAL}/轮",
+    "description": "该系统、特征或反应在使用者两次回合开始之间最多使用 {VAL} 次。"
+  },
+  {
+    "id": "tg_ai",
+    "name": "AI",
+    "description": "机甲同时只能安装一个带此标签的系统；带AI的机甲可由NHP或COMP/CON半自主控制，不能从天赋受益。"
+  },
+  {
+    "id": "tg_danger_zone",
+    "name": "超温危域",
+    "description": "使用者必须处于超温危域（热量至少达到热量上限的一半）才能使用。"
+  },
+  {
+    "id": "tg_deployable",
+    "name": "可展开",
+    "description": "该系统是可部署到战场的物体；除非另有说明，快速动作可将其部署在邻近的有效空位。"
+  },
+  {
+    "id": "tg_drone",
+    "name": "无人机",
+    "description": "这是具备有限自主性的无人单位；除非另有说明，无人机为大小1/2、10回避、5HP、0装甲的盟友。"
+  },
+  {
+    "id": "tg_full_action",
+    "name": "完整动作",
+    "description": "激活该系统需要完整动作。"
+  },
+  {
+    "id": "tg_grenade",
+    "name": "榴弹",
+    "description": "快速动作：将该爆炸物投掷至视线内、指定射程内的空间。"
+  },
+  {
+    "id": "tg_heat_self",
+    "name": "热量 {VAL}（自身）",
+    "description": "使用该武器或系统后，使用者立即受到 {VAL} 热量。"
+  },
+  {
+    "id": "tg_limited",
+    "name": "受限 {VAL}",
+    "description": "该武器或系统在全面维修前只能使用 {VAL} 次。"
+  },
+  {
+    "id": "tg_mine",
+    "name": "地雷",
+    "description": "快速动作：将地雷部署在邻近的有效空位；角色进入邻近空间时触发并产生爆发攻击。"
+  },
+  {
+    "id": "tg_mod",
+    "name": "模组",
+    "description": "该模组可应用于武器；每件武器最多一个模组，装配机甲或全面维修时应用。"
+  },
+  {
+    "id": "tg_protocol",
+    "name": "协议",
+    "description": "该系统可在使用者回合开始时以自由动作激活，停用可能需要其他动作。"
+  },
+  {
+    "id": "tg_quick_action",
+    "name": "快速动作",
+    "description": "激活该系统需要快速动作。"
+  },
+  {
+    "id": "tg_reaction",
+    "name": "反应",
+    "description": "该系统可作为反应激活。"
+  },
+  {
+    "id": "tg_shield",
+    "name": "护盾",
+    "description": "该系统是一种能量护盾。"
+  },
+  {
+    "id": "tg_unique",
+    "name": "独特",
+    "description": "该武器或系统不可复制；每个角色同时只能安装一份。"
+  },
+  {
+    "id": "tg_archaic",
+    "name": "古旧",
+    "description": "该武器过时，无法伤害机甲。"
+  },
+  {
+    "id": "tg_personal_armor",
+    "name": "个人护甲",
+    "description": "该装备提供明显且通常无法隐藏的战斗防护；驾驶员同一时间只能穿戴一件。"
+  },
+  {
+    "id": "tg_pilot_weapon",
+    "name": "驾驶员武器",
+    "description": "任务中驾驶员最多携带两件驾驶员规模武器；机甲不能使用。"
+  },
+  {
+    "id": "tg_gear",
+    "name": "装备",
+    "description": "这是工具或装备；驾驶员最多同时拥有三件。"
+  },
+  {
+    "id": "tg_sidearm",
+    "name": "副武器",
+    "description": "该武器可用快速动作进行战斗，而非完整动作。"
+  },
+  {
+    "id": "tg_invade",
+    "name": "入侵",
+    "description": "该系统为入侵快速科技动作提供额外选项。"
+  },
+  {
+    "id": "tg_quick_tech",
+    "name": "快速科技",
+    "description": "该科技可作为快速科技动作使用。"
+  },
+  {
+    "id": "tg_full_tech",
+    "name": "完整科技",
+    "description": "该科技可作为完整科技动作使用。"
+  },
+  {
+    "id": "tg_free_action",
+    "name": "自由动作",
+    "description": "自由动作可在回合任意时点进行，不计入快速或完整动作次数。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_range",
+    "name": "射程（{VAL}）",
+    "description": "该系统可在 {VAL} 空间射程内激活。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_modded",
+    "name": "已加装模组",
+    "description": "该武器已装配武器模组。"
+  },
+  {
+    "id": "tg_resistance",
+    "name": "抗性",
+    "description": "将你具有抗性的伤害来源造成的所有伤害减半。"
+  },
+  {
+    "id": "tg_exotic",
+    "name": "异种装备",
+    "description": "异种装备是传统牌照系统之外的装备。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_recharge",
+    "name": "重充 {VAL}+",
+    "description": "使用后必须重充；NPC回合开始掷1d6，结果至少为 {VAL} 时恢复使用。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_unlimited",
+    "name": "无限",
+    "description": "该能力每轮可使用任意次数。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_indestructible",
+    "name": "不可毁坏",
+    "description": "该装备不能被标记为被毁。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_invulnerable",
+    "name": "无敌",
+    "description": "该装备免疫所有伤害。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_invisible",
+    "name": "隐形",
+    "description": "该单位处于隐形状态。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_resistall",
+    "name": "全伤害抗性",
+    "description": "该单位对所有伤害类型具有抗性。",
+    "filter_ignore": true
+  },
+  {
+    "id": "tg_set_max_uses",
+    "name": "设定最大用量",
+    "description": "允许玩家设置该装备的最大用量（隐藏标签）。",
+    "hidden": true
+  },
+  {
+    "id": "tg_set_damage_type",
+    "name": "设定伤害类型",
+    "description": "允许玩家设置该装备的伤害类型（隐藏标签）。",
+    "hidden": true
+  },
+  {
+    "id": "tg_set_damage_value",
+    "name": "设定伤害数值",
+    "description": "允许玩家设置该装备的伤害数值（隐藏标签）。",
+    "hidden": true
+  },
+  {
+    "id": "tg_no_cascade",
+    "name": "防止层流",
+    "description": "禁止AI系统被识别为层流的有效目标（隐藏标签）。",
+    "hidden": true
+  }
+]

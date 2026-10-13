@@ -1308,7 +1308,7 @@
             "name": "翘曲匕首",
             "profiles": {
                 "Fold Knife": {
-                    "description": "<i>>//[我独自在这吗？]<br>>//[不。只有你缺席。这里门庭若市，只是你看不到]<br>——节德柱碎片石板1.3</i>",
+                    "description": ">//[我独自在这吗？]<br>>//[[No. There is only an absence of you. It is very busy here, but you cannot see it]]<br>——节德柱碎片石板1.3",
                     "name": "翘曲匕首",
                     "on_crit": "你可以在攻击结算后往任意方向<b>瞬间移动</b><b>2空间</b>。"
                 }
@@ -5156,3 +5156,4 @@
         }
     }
 }
+

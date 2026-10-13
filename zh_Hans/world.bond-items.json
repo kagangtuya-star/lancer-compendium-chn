@@ -1,0 +1,1075 @@
+{
+  "label": "羁绊汇编",
+  "mapping": {
+    "system": {
+      "path": "system",
+      "converter": "generalConverter"
+    }
+  },
+  "entries": {
+    "The Harlequin": {
+      "name": "丑角",
+      "major_ideals": {
+        "I addressed challenges with cunning, subterfuge, or deceit.": "我在“丑角”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I struggled against or humiliated the powerful.": "我在场景中完成“丑角”次要理想1。",
+        "I pretended to be someone else for a time.": "我在场景中完成“丑角”次要理想2。",
+        "I charmed my way out of a charged situation.": "我在场景中完成“丑角”次要理想3。",
+        "I obtained a guarded, hidden, or secret object or piece of information.": "我在场景中完成“丑角”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“丑角”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A high-tech stealth rig.": "“丑角”的叙事选项1",
+            "A tattered patchwork of a cape stuffed with magician’s trinkets.": "“丑角”的叙事选项2",
+            "Years of streetwise swindling.": "“丑角”的叙事选项3",
+            "A deal you once made in a dream.": "“丑角”的叙事选项4"
+          }
+        },
+        "What weird quirks do you have?": {
+          "question": "关于“丑角”的羁绊问题2：你会如何回答？",
+          "options": {
+            "You can change your eye color, your hair color, and your height by up to 3 inches in either direction.": "“丑角”的叙事选项1",
+            "You weigh almost nothing if you choose not to. You sometimes float an inch off the ground.": "“丑角”的叙事选项2",
+            "Your can swap your clothing’s coloration, material, fit, cut, and type completely when you enter any scene.": "“丑角”的叙事选项3"
+          }
+        }
+      },
+      "powers": {
+        "Masquerade": {
+          "name": "化妆舞会",
+          "description": "在叙事场景中使用“化妆舞会”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Ridi Pagliacci": {
+          "name": "笑一个吧，小丑",
+          "description": "在叙事场景中使用“笑一个吧，小丑”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Gallows Humor": {
+          "name": "黑色幽默",
+          "description": "在叙事场景中使用“黑色幽默”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Mockingbird": {
+          "name": "嘲鸫",
+          "description": "在叙事场景中使用“嘲鸫”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Slip": {
+          "name": "失足",
+          "description": "在叙事场景中使用“失足”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Fast Friends": {
+          "name": "一拍即合",
+          "description": "在叙事场景中使用“一拍即合”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Spectacular Flourish": {
+          "name": "叹为观止",
+          "description": "在叙事场景中使用“叹为观止”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Mercurial": {
+          "name": "变化无穷",
+          "description": "在叙事场景中使用“变化无穷”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Exuent": {
+          "name": "多人离场",
+          "description": "在叙事场景中使用“多人离场”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Quickfingers": {
+          "name": "灵机一动",
+          "description": "在叙事场景中使用“灵机一动”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Boon of Chaos": {
+          "name": "混沌恩赐",
+          "description": "在叙事场景中使用“混沌恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Silvertongue": {
+          "name": "银舌",
+          "description": "在叙事场景中使用“银舌”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Titan": {
+      "name": "泰坦",
+      "major_ideals": {
+        "I addressed challenges with strength, leadership, or force.": "我在“泰坦”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I protected someone weaker than myself.": "我在场景中完成“泰坦”次要理想1。",
+        "I led from the front.": "我在场景中完成“泰坦”次要理想2。",
+        "I won a competition, friendly or otherwise.": "我在场景中完成“泰坦”次要理想3。",
+        "I took harm, blame, penance, or burden for someone else.": "我在场景中完成“泰坦”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“泰坦”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A voice and heart of iron, passed down from your mentor.": "“泰坦”的叙事选项1",
+            "Cybernetic augmentation, laced through your limbs.": "“泰坦”的叙事选项2",
+            "Years of training, sweat, blood, and discipline.": "“泰坦”的叙事选项3"
+          }
+        },
+        "What weapons do you wield?": {
+          "question": "关于“泰坦”的羁绊问题2：你会如何回答？",
+          "options": {
+            "My own flesh and sinews.": "“泰坦”的叙事选项1",
+            "A hereditary blade.": "“泰坦”的叙事选项2",
+            "A carefully curated arsenal.": "“泰坦”的叙事选项3",
+            "A thick and heavy shield.": "“泰坦”的叙事选项4",
+            "A battered old rifle.": "“泰坦”的叙事选项5"
+          }
+        }
+      },
+      "powers": {
+        "True Grit": {
+          "name": "胆量",
+          "description": "在叙事场景中使用“胆量”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Nothing to Fuck With": {
+          "name": "不服就干",
+          "description": "在叙事场景中使用“不服就干”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Nerve": {
+          "name": "神经",
+          "description": "在叙事场景中使用“神经”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Ironjaw": {
+          "name": "铁颚",
+          "description": "在叙事场景中使用“铁颚”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Hammerhand": {
+          "name": "锤手",
+          "description": "在叙事场景中使用“锤手”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The Wall": {
+          "name": "盾墙",
+          "description": "在叙事场景中使用“盾墙”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Absolute Meat": {
+          "name": "纯粹肉体",
+          "description": "在叙事场景中使用“纯粹肉体”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Force of Will": {
+          "name": "意愿之力",
+          "description": "在叙事场景中使用“意愿之力”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Half Light": {
+          "name": "夕照",
+          "description": "在叙事场景中使用“夕照”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Strength Beyond Strength": {
+          "name": "排山倒海",
+          "description": "在叙事场景中使用“排山倒海”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Boon of Iron": {
+          "name": "钢铁恩赐",
+          "description": "在叙事场景中使用“钢铁恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Unbreakable": {
+          "name": "坚不可摧",
+          "description": "在叙事场景中使用“坚不可摧”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Pathfinder": {
+      "name": "开拓者",
+      "major_ideals": {
+        "I addressed challenges with curiosity, exploration, or understanding.": "我在“开拓者”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I smelled, heard, or tasted something new.": "我在场景中完成“开拓者”次要理想1。",
+        "I learned a new skill or trade, or gained a new level of mastery in one I already knew.": "我在场景中完成“开拓者”次要理想2。",
+        "I met and conversed with an expert.": "我在场景中完成“开拓者”次要理想3。",
+        "I beheld a unique, interesting, or beautiful sight.": "我在场景中完成“开拓者”次要理想4。"
+      },
+      "questions": {
+        "What gives you your power?": {
+          "question": "关于“开拓者”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A star map given to you long ago by an old friend.": "“开拓者”的叙事选项1",
+            "Years spent out in the wilderness, mapping the mountains.": "“开拓者”的叙事选项2",
+            "Many years on a freighter, and many worlds passed by.": "“开拓者”的叙事选项3"
+          }
+        },
+        "Where have you traveled in your dreams?": {
+          "question": "关于“开拓者”的羁绊问题2：你会如何回答？",
+          "options": {
+            "The edge of the world.": "“开拓者”的叙事选项1",
+            "Deep into the molten core of a supernova.": "“开拓者”的叙事选项2",
+            "A still, black pool in the deep forest.": "“开拓者”的叙事选项3",
+            "An endless expanse of desert.": "“开拓者”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Momentum": {
+          "name": "动量",
+          "description": "在叙事场景中使用“动量”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Saddleborn": {
+          "name": "骑才",
+          "description": "在叙事场景中使用“骑才”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Dabbler": {
+          "name": "半瓶醋",
+          "description": "在叙事场景中使用“半瓶醋”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Feet Up": {
+          "name": "二郎腿",
+          "description": "在叙事场景中使用“二郎腿”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Freesoul": {
+          "name": "自由之魂",
+          "description": "在叙事场景中使用“自由之魂”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Beginner’s Luck": {
+          "name": "新手的运气",
+          "description": "在叙事场景中使用“新手的运气”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Lightspeed": {
+          "name": "光速",
+          "description": "在叙事场景中使用“光速”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Lay Burdens": {
+          "name": "卸下负担",
+          "description": "在叙事场景中使用“卸下负担”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Renaissance": {
+          "name": "复兴",
+          "description": "在叙事场景中使用“复兴”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Feel the Air": {
+          "name": "感受气息",
+          "description": "在叙事场景中使用“感受气息”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Boon of the Traveler": {
+          "name": "旅者恩赐",
+          "description": "在叙事场景中使用“旅者恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Long Road Home": {
+          "name": "漫漫归路",
+          "description": "在叙事场景中使用“漫漫归路”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Builder": {
+      "name": "建造者",
+      "major_ideals": {
+        "I addressed challenges with diplomacy, creativity, or empathy.": "我在“建造者”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I made a new friend or ally.": "我在场景中完成“建造者”次要理想1。",
+        "I defused a potentially violent or charged situation.": "我在场景中完成“建造者”次要理想2。",
+        "I helped to soothe or heal someone’s pain.": "我在场景中完成“建造者”次要理想3。",
+        "I created a new object, organization, or alliance, or mended one that was broken.": "我在场景中完成“建造者”次要理想4。"
+      },
+      "questions": {
+        "What gives you your power?": {
+          "question": "关于“建造者”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A strong sense of community from years spent station-side.": "“建造者”的叙事选项1",
+            "A love of engineering passed down from your parents.": "“建造者”的叙事选项2",
+            "Part of your body that you built yourself, lovingly tinkered with.": "“建造者”的叙事选项3"
+          }
+        },
+        "What do you speak with?": {
+          "question": "关于“建造者”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Your voice.": "“建造者”的叙事选项1",
+            "Your hands.": "“建造者”的叙事选项2",
+            "Your eyes.": "“建造者”的叙事选项3",
+            "Your heart.": "“建造者”的叙事选项4",
+            "Your gut.": "“建造者”的叙事选项5"
+          }
+        }
+      },
+      "powers": {
+        "Inspiration": {
+          "name": "鼓舞",
+          "description": "在叙事场景中使用“鼓舞”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Secret History": {
+          "name": "秘史",
+          "description": "在叙事场景中使用“秘史”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Untangle": {
+          "name": "理清",
+          "description": "在叙事场景中使用“理清”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The Clockmaker": {
+          "name": "钟表匠",
+          "description": "在叙事场景中使用“钟表匠”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Sanctuary": {
+          "name": "圣所",
+          "description": "在叙事场景中使用“圣所”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Bilingual": {
+          "name": "双母语",
+          "description": "在叙事场景中使用“双母语”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Rigger": {
+          "name": "机械师",
+          "description": "在叙事场景中使用“机械师”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Comfort": {
+          "name": "慰藉",
+          "description": "在叙事场景中使用“慰藉”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Metalbloom": {
+          "name": "金属焕发",
+          "description": "在叙事场景中使用“金属焕发”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Mender": {
+          "name": "修理者",
+          "description": "在叙事场景中使用“修理者”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Boon of the Forge": {
+          "name": "熔炉恩赐",
+          "description": "在叙事场景中使用“熔炉恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Web of Creation": {
+          "name": "创造之网",
+          "description": "在叙事场景中使用“创造之网”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Magus": {
+      "name": "魔术师",
+      "major_ideals": {
+        "I addressed challenges with passion, faith, or intuition.": "我在“魔术师”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I witnessed something terrifying, mind-bending, or glorious.": "我在场景中完成“魔术师”次要理想1。",
+        "I acted on my first impulse.": "我在场景中完成“魔术师”次要理想2。",
+        "I questioned my own senses, beliefs, or sense of self.": "我在场景中完成“魔术师”次要理想3。",
+        "My stated intuition or gut feeling about something turned out to be right.": "我在场景中完成“魔术师”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“魔术师”的羁绊问题1：你会如何回答？",
+          "options": {
+            "Esoteric technology, implanted in your cortex": "“魔术师”的叙事选项1",
+            "A gut feeling too real for comfort": "“魔术师”的叙事选项2",
+            "A conversation you once had with a long-dead monolith.": "“魔术师”的叙事选项3"
+          }
+        },
+        "What are your nightmares about?": {
+          "question": "关于“魔术师”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Sinking through an endless blackness.": "“魔术师”的叙事选项1",
+            "Fleeing from teeth, muscle, and bone.": "“魔术师”的叙事选项2",
+            "Hollow faces, staring at you.": "“魔术师”的叙事选项3",
+            "My own blood and body, revolting against me.": "“魔术师”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Heartsight": {
+          "name": "心眼",
+          "description": "在叙事场景中使用“心眼”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "To the Brink": {
+          "name": "濒临边缘",
+          "description": "在叙事场景中使用“濒临边缘”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Eyes of the Void": {
+          "name": "虚空之眼",
+          "description": "在叙事场景中使用“虚空之眼”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Possession": {
+          "name": "附身",
+          "description": "在叙事场景中使用“附身”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Blackblood": {
+          "name": "黑血",
+          "description": "在叙事场景中使用“黑血”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Skincrawl": {
+          "name": "皮肤爬行",
+          "description": "在叙事场景中使用“皮肤爬行”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Geist": {
+          "name": "幽魂",
+          "description": "在叙事场景中使用“幽魂”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Plunder the Void": {
+          "name": "劫掠虚空",
+          "description": "在叙事场景中使用“劫掠虚空”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Instinctive": {
+          "name": "本能",
+          "description": "在叙事场景中使用“本能”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Unveil": {
+          "name": "揭示",
+          "description": "在叙事场景中使用“揭示”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Boon of Revelation": {
+          "name": "启示恩赐",
+          "description": "在叙事场景中使用“启示恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Pierce the Gate": {
+          "name": "刺穿大门",
+          "description": "在叙事场景中使用“刺穿大门”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Wolf": {
+      "name": "狼",
+      "major_ideals": {
+        "I addressed challenges with precision, coldness, or intimidation.": "我在“狼”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I showed someone how it’s done.": "我在场景中完成“狼”次要理想1。",
+        "I revealed an ugly truth about the world.": "我在场景中完成“狼”次要理想2。",
+        "My pain or weakness became apparent despite my efforts to hide it.": "我在场景中完成“狼”次要理想3。",
+        "I got someone to back down or back off.": "我在场景中完成“狼”次要理想4。"
+      },
+      "questions": {
+        "What gives you your power?": {
+          "question": "关于“狼”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A long time spent alone in the cold, a time you’d rather forget.": "“狼”的叙事选项1",
+            "A hardened, bitter upbringing.": "“狼”的叙事选项2",
+            "A collection of blades, polished and well used.": "“狼”的叙事选项3"
+          }
+        },
+        "What must you keep hidden at all costs?": {
+          "question": "关于“狼”的羁绊问题2：你会如何回答？",
+          "options": {
+            "The wounds and scars that deform you.": "“狼”的叙事选项1",
+            "The people you most care about.": "“狼”的叙事选项2",
+            "The person you truly are at your core.": "“狼”的叙事选项3",
+            "The blood in your past that’s catching up to you.": "“狼”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Go for a Walk": {
+          "name": "去散步",
+          "description": "在叙事场景中使用“去散步”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Cornered": {
+          "name": "穷途末路",
+          "description": "在叙事场景中使用“穷途末路”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Scarcoat": {
+          "name": "伤痕外衣",
+          "description": "在叙事场景中使用“伤痕外衣”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Discipline": {
+          "name": "纪律",
+          "description": "在叙事场景中使用“纪律”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Blood Scent": {
+          "name": "血腥气息",
+          "description": "在叙事场景中使用“血腥气息”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Pounce": {
+          "name": "猛扑",
+          "description": "在叙事场景中使用“猛扑”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Tear Throat": {
+          "name": "撕裂喉咙",
+          "description": "在叙事场景中使用“撕裂喉咙”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Ultimatum": {
+          "name": "最后通牒",
+          "description": "在叙事场景中使用“最后通牒”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "It’s Nothing": {
+          "name": "没什么",
+          "description": "在叙事场景中使用“没什么”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Don’t Tell Me the Odds": {
+          "name": "能力10",
+          "description": "在叙事场景中使用“能力10”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Boon of the Fang": {
+          "name": "獠牙恩赐",
+          "description": "在叙事场景中使用“獠牙恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Wick": {
+          "name": "引线",
+          "description": "在叙事场景中使用“引线”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Fool": {
+      "name": "愚者",
+      "major_ideals": {
+        "I addressed challenges with perseverance, learning, or sheer dumb luck.": "我在“愚者”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "Someone else helped me out of a bad situation.": "我在场景中完成“愚者”次要理想1。",
+        "I learned from my own vulnerability or weakness.": "我在场景中完成“愚者”次要理想2。",
+        "I threw myself into a situation without planning or preparation.": "我在场景中完成“愚者”次要理想3。",
+        "Someone taught me something useful, comforting, or painful.": "我在场景中完成“愚者”次要理想4。"
+      },
+      "questions": {
+        "What gives you your power?": {
+          "question": "关于“愚者”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A strong sense of adventure.": "“愚者”的叙事选项1",
+            "Always being in the right place at the right time or the wrong place at the right time.": "“愚者”的叙事选项2",
+            "A stubborn refusal to give up.": "“愚者”的叙事选项3"
+          }
+        },
+        "Who’s rooting for you back home?": {
+          "question": "关于“愚者”的羁绊问题2：你会如何回答？",
+          "options": {
+            "My family.": "“愚者”的叙事选项1",
+            "My partner.": "“愚者”的叙事选项2",
+            "My grandparent.": "“愚者”的叙事选项3",
+            "My community.": "“愚者”的叙事选项4",
+            "Nobody in particular, but that’s okay.": "“愚者”的叙事选项5"
+          }
+        }
+      },
+      "powers": {
+        "Rescue": {
+          "name": "救援",
+          "description": "在叙事场景中使用“救援”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Punching Bag": {
+          "name": "沙袋",
+          "description": "在叙事场景中使用“沙袋”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The Sun": {
+          "name": "太阳",
+          "description": "在叙事场景中使用“太阳”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "The Moon": {
+          "name": "月亮",
+          "description": "在叙事场景中使用“月亮”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Joyluck Wind Thrower": {
+          "name": "好运风掷",
+          "description": "在叙事场景中使用“好运风掷”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Inspired Heroism": {
+          "name": "鼓舞英雄主义",
+          "description": "在叙事场景中使用“鼓舞英雄主义”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "All-In": {
+          "name": "孤注一掷",
+          "description": "在叙事场景中使用“孤注一掷”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Heart of Hearts": {
+          "name": "内心深处",
+          "description": "在叙事场景中使用“内心深处”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Stroke of Luck": {
+          "name": "幸运一击",
+          "description": "在叙事场景中使用“幸运一击”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Learn by Example": {
+          "name": "以身作则",
+          "description": "在叙事场景中使用“以身作则”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Boon of the Star": {
+          "name": "星辰恩赐",
+          "description": "在叙事场景中使用“星辰恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The World": {
+          "name": "世界",
+          "description": "在叙事场景中使用“世界”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Broker": {
+      "name": "中间人",
+      "major_ideals": {
+        "I addressed challenges with manipulation, influence, or elegance.": "我在“中间人”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I kept my hands clean of the dirty work.": "我在场景中完成“中间人”次要理想1。",
+        "I proved that I was the most qualified to handle a situation.": "我在场景中完成“中间人”次要理想2。",
+        "Someone found me attractive, intriguing, or frightening.": "我在场景中完成“中间人”次要理想3。",
+        "Despite my best efforts, we went wildly off the plan.": "我在场景中完成“中间人”次要理想4。"
+      },
+      "questions": {
+        "What gives you your power?": {
+          "question": "关于“中间人”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A honeyed voice.": "“中间人”的叙事选项1",
+            "A filed and organized list of debts owed.": "“中间人”的叙事选项2",
+            "A favored upbringing, used to your advantage.": "“中间人”的叙事选项3"
+          }
+        },
+        "What do you value?": {
+          "question": "关于“中间人”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Good business and a sense of professionalism.": "“中间人”的叙事选项1",
+            "Loyalty above all.": "“中间人”的叙事选项2",
+            "Secrets, the dirtier the better.": "“中间人”的叙事选项3",
+            "The respect of others, no matter how it’s won.": "“中间人”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Cosmocephalos": {
+          "name": "宇宙之首",
+          "description": "在叙事场景中使用“宇宙之首”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Perfect Little Universe": {
+          "name": "完美小宇宙",
+          "description": "在叙事场景中使用“完美小宇宙”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Little Consequence": {
+          "name": "微小后果",
+          "description": "在叙事场景中使用“微小后果”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "The Ledger": {
+          "name": "账簿",
+          "description": "在叙事场景中使用“账簿”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Favors Owed": {
+          "name": "欠下的人情",
+          "description": "在叙事场景中使用“欠下的人情”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Contingency Plans": {
+          "name": "应急计划",
+          "description": "在叙事场景中使用“应急计划”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Beg, Borrow, or Steal": {
+          "name": "乞求、借取或偷窃",
+          "description": "在叙事场景中使用“乞求、借取或偷窃”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Immaculate": {
+          "name": "完美无瑕",
+          "description": "在叙事场景中使用“完美无瑕”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Spider": {
+          "name": "蜘蛛",
+          "description": "在叙事场景中使用“蜘蛛”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Boon of Order": {
+          "name": "秩序恩赐",
+          "description": "在叙事场景中使用“秩序恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Seal in Blood": {
+          "name": "血之契约",
+          "description": "在叙事场景中使用“血之契约”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Firebrand": {
+      "name": "煽动者",
+      "major_ideals": {
+        "I addressed challenges with charisma, iconoclasm, or dedication.": "我在“煽动者”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I successfully challenged a long-held or foundational idea.": "我在场景中完成“煽动者”次要理想1。",
+        "I stood up for what was right despite great risk.": "我在场景中完成“煽动者”次要理想2。",
+        "I inspired others to revolutionary action.": "我在场景中完成“煽动者”次要理想3。",
+        "I fought even when the challenge seemed insurmountable.": "我在场景中完成“煽动者”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“煽动者”的羁绊问题1：你会如何回答？",
+          "options": {
+            "An unshakeable conviction or faith.": "“煽动者”的叙事选项1",
+            "The support and solidarity of your comrades.": "“煽动者”的叙事选项2",
+            "The vivid memory of those you could not save.": "“煽动者”的叙事选项3"
+          }
+        },
+        "What do you fight for?": {
+          "question": "关于“煽动者”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Freedom for the enslaved and indentured.": "“煽动者”的叙事选项1",
+            "Justice for the mistreated and the downtrodden.": "“煽动者”的叙事选项2",
+            "An end to the established order.": "“煽动者”的叙事选项3",
+            "A better world for those who come after.": "“煽动者”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Strength In Conviction": {
+          "name": "信念之力",
+          "description": "在叙事场景中使用“信念之力”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Solidarity": {
+          "name": "团结",
+          "description": "在叙事场景中使用“团结”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The Power Of Friendship": {
+          "name": "友谊之力",
+          "description": "在叙事场景中使用“友谊之力”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Tenacity": {
+          "name": "坚韧",
+          "description": "在叙事场景中使用“坚韧”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Weight of the World": {
+          "name": "世界重担",
+          "description": "在叙事场景中使用“世界重担”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Fuck You": {
+          "name": "去你的",
+          "description": "在叙事场景中使用“去你的”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Iconoclast": {
+          "name": "破坏偶像",
+          "description": "在叙事场景中使用“破坏偶像”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Together We Are Strong": {
+          "name": "团结就是力量",
+          "description": "在叙事场景中使用“团结就是力量”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Inspiring Leader": {
+          "name": "鼓舞人心的领袖",
+          "description": "在叙事场景中使用“鼓舞人心的领袖”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Raise The Banner": {
+          "name": "举起旗帜",
+          "description": "在叙事场景中使用“举起旗帜”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Boon of Rebellion": {
+          "name": "反叛恩赐",
+          "description": "在叙事场景中使用“反叛恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Do You Hear The People Sing": {
+          "name": "你听见人民在歌唱吗",
+          "description": "在叙事场景中使用“你听见人民在歌唱吗”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Celebrant": {
+      "name": "庆典者",
+      "major_ideals": {
+        "I addressed challenges with enthusiasm, indulgence, or open-mindedness.": "我在“庆典者”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I embraced something I did not fully understand.": "我在场景中完成“庆典者”次要理想1。",
+        "I sought out and indulged in pleasurable experiences.": "我在场景中完成“庆典者”次要理想2。",
+        "I showed someone a different side of themselves.": "我在场景中完成“庆典者”次要理想3。",
+        "I managed to find joy in bleak circumstances.": "我在场景中完成“庆典者”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“庆典者”的羁绊问题1：你会如何回答？",
+          "options": {
+            "A cosmopolitan upbringing among many diverse cultures.": "“庆典者”的叙事选项1",
+            "A thrill-seeking drive that only grows when fed.": "“庆典者”的叙事选项2",
+            "A certain awareness of death and the temporary nature of existence.": "“庆典者”的叙事选项3"
+          }
+        },
+        "What is your greatest pleasure?": {
+          "question": "关于“庆典者”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Unique cuisines and street food from across the Diaspora.": "“庆典者”的叙事选项1",
+            "The fiery adrenaline high of combat.": "“庆典者”的叙事选项2",
+            "Altered perception and otherworldly experiences.": "“庆典者”的叙事选项3",
+            "Convincing someone to try something new.": "“庆典者”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Uninhibited": {
+          "name": "无拘无束",
+          "description": "在叙事场景中使用“无拘无束”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Infectious Enthusiasm": {
+          "name": "传染性热情",
+          "description": "在叙事场景中使用“传染性热情”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Break Bread": {
+          "name": "共享食物",
+          "description": "在叙事场景中使用“共享食物”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Live And Learn": {
+          "name": "活到老学到老",
+          "description": "在叙事场景中使用“活到老学到老”时，按该羁绊能力的规则执行其效果。"
+        },
+        "What Could Go Wrong?": {
+          "name": "还能出什么问题？",
+          "description": "在叙事场景中使用“还能出什么问题？”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "The Good Stuff": {
+          "name": "好东西",
+          "description": "在叙事场景中使用“好东西”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Bad Influence": {
+          "name": "不良影响",
+          "description": "在叙事场景中使用“不良影响”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Hook Up": {
+          "name": "牵线搭桥",
+          "description": "在叙事场景中使用“牵线搭桥”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Friends In Strange Places": {
+          "name": "奇地之友",
+          "description": "在叙事场景中使用“奇地之友”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Cosmopolitan": {
+          "name": "世界主义",
+          "description": "在叙事场景中使用“世界主义”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Boon of the Open Mind": {
+          "name": "开放心灵恩赐",
+          "description": "在叙事场景中使用“开放心灵恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "The Beautiful Life": {
+          "name": "美好生活",
+          "description": "在叙事场景中使用“美好生活”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Knave": {
+      "name": "无赖",
+      "major_ideals": {
+        "I addressed challenges with resolve, ruthlessness, or ambition.": "我在“无赖”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I set an impossible goal and achieved it anyway.": "我在场景中完成“无赖”次要理想1。",
+        "I humiliated or brought low a rival.": "我在场景中完成“无赖”次要理想2。",
+        "I took something important or irreplaceable for myself.": "我在场景中完成“无赖”次要理想3。",
+        "I paid the price for my ambition.": "我在场景中完成“无赖”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“无赖”的羁绊问题1：你会如何回答？",
+          "options": {
+            "An upbringing where you had to take what you needed to survive.": "“无赖”的叙事选项1",
+            "An uncompromising mentor who taught you tough lessons.": "“无赖”的叙事选项2",
+            "A heart hardened by betrayal or great injustice.": "“无赖”的叙事选项3"
+          }
+        },
+        "What would you give up to achieve your goals?": {
+          "question": "关于“无赖”的羁绊问题2：你会如何回答？",
+          "options": {
+            "Your dignity.": "“无赖”的叙事选项1",
+            "Your safety.": "“无赖”的叙事选项2",
+            "Your principles.": "“无赖”的叙事选项3",
+            "Your reputation.": "“无赖”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "I'll Do It Myself": {
+          "name": "我自己来",
+          "description": "在叙事场景中使用“我自己来”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Ruthless": {
+          "name": "无情",
+          "description": "在叙事场景中使用“无情”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "White Whale": {
+          "name": "白鲸",
+          "description": "在叙事场景中使用“白鲸”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Shoot First": {
+          "name": "先发制人",
+          "description": "在叙事场景中使用“先发制人”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Heartbreaker": {
+          "name": "碎心者",
+          "description": "在叙事场景中使用“碎心者”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Out Of My Way": {
+          "name": "让开",
+          "description": "在叙事场景中使用“让开”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "From Hell's Heart": {
+          "name": "来自地狱之心",
+          "description": "在叙事场景中使用“来自地狱之心”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Eyes On The Prize": {
+          "name": "盯紧奖赏",
+          "description": "在叙事场景中使用“盯紧奖赏”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Where There's A Will": {
+          "name": "有志者事竟成",
+          "description": "在叙事场景中使用“有志者事竟成”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Bite The Bullet": {
+          "name": "咬紧牙关",
+          "description": "在叙事场景中使用“咬紧牙关”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Boon of Triumph": {
+          "name": "胜利恩赐",
+          "description": "在叙事场景中使用“胜利恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Do or Die": {
+          "name": "不成功便成仁",
+          "description": "在叙事场景中使用“不成功便成仁”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    },
+    "The Seneschal": {
+      "name": "管家",
+      "major_ideals": {
+        "I addressed challenges with honor, loyalty, or integrity.": "我在“管家”的主题中践行理想1。",
+        "I expressed my heritage, background, or beliefs through my actions.": "我通过个人行动来展现我的传统、背景或信仰。",
+        "I struggled with issues from my burdens or background.": "我与负担或背景问题斗争。"
+      },
+      "minor_ideals": {
+        "I spared or extended grace to a defeated opponent.": "我在场景中完成“管家”次要理想1。",
+        "I stood by a friend or ally despite dire consequences.": "我在场景中完成“管家”次要理想2。",
+        "I swore a solemn and unbreakable vow.": "我在场景中完成“管家”次要理想3。",
+        "I made restitution to someone harmed by my actions.": "我在场景中完成“管家”次要理想4。"
+      },
+      "questions": {
+        "What gives you your powers?": {
+          "question": "关于“管家”的羁绊问题1：你会如何回答？",
+          "options": {
+            "An ironclad personal code of honor.": "“管家”的叙事选项1",
+            "A family legacy stretching back centuries.": "“管家”的叙事选项2",
+            "The knowledge of your privilege and a sense of responsibility to those less fortunate.": "“管家”的叙事选项3"
+          }
+        },
+        "What vow have you sworn?": {
+          "question": "关于“管家”的羁绊问题2：你会如何回答？",
+          "options": {
+            "To never allow an innocent to come to harm.": "“管家”的叙事选项1",
+            "To preserve the traditions and uphold the values of your culture.": "“管家”的叙事选项2",
+            "To repent for an unforgivable mistake.": "“管家”的叙事选项3",
+            "To stand by your friends and family, no matter the cost.": "“管家”的叙事选项4"
+          }
+        }
+      },
+      "powers": {
+        "Steadfast Ally": {
+          "name": "坚定盟友",
+          "description": "在叙事场景中使用“坚定盟友”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Stewardship": {
+          "name": "守护",
+          "description": "在叙事场景中使用“守护”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "My Word Is My Bond": {
+          "name": "一言为定",
+          "description": "在叙事场景中使用“一言为定”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "Clarion": {
+          "name": "号角",
+          "description": "在叙事场景中使用“号角”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Responsibility": {
+          "name": "责任",
+          "description": "在叙事场景中使用“责任”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Its Own Reward": {
+          "name": "自有回报",
+          "description": "在叙事场景中使用“自有回报”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Forbearance": {
+          "name": "克制",
+          "description": "在叙事场景中使用“克制”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        },
+        "Champion's Heart": {
+          "name": "冠军之心",
+          "description": "在叙事场景中使用“冠军之心”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "2/场景"
+        },
+        "The Best Kind Of Correct": {
+          "name": "最好的正确",
+          "description": "在叙事场景中使用“最好的正确”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Shivers": {
+          "name": "战栗",
+          "description": "在叙事场景中使用“战栗”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Boon of Integrity": {
+          "name": "正直恩赐",
+          "description": "在叙事场景中使用“正直恩赐”时，按该羁绊能力的规则执行其效果。"
+        },
+        "Durendal, My Brand": {
+          "name": "我的杜兰达尔印记",
+          "description": "在叙事场景中使用“我的杜兰达尔印记”时，按该羁绊能力的规则执行其效果。",
+          "frequency": "1/场景"
+        }
+      }
+    }
+  }
+}

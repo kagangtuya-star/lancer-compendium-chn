@@ -36,6 +36,10 @@
         "name": "Invisible",
         "effect": "All attacks against INVISIBLE characters, regardless of type, have a 50 percent chance to miss outright, before an attack roll is made. Roll a dice or flip a coin to determine if the attack misses.<br>Additionally, INVISIBLE characters can always HIDE, even without cover."
       },
+      "Intangible": {
+        "name": "Intangible",
+        "effect": "INTANGIBLE characters can pass through obstructions, including characters and terrain, but cannot end their turn inside them. They, their actions, and any effects they own or control can only affect other INTANGIBLE characters and objects. TANGIBLE characters can pass through INTANGIBLE characters and objects, but cannot end their turn in their spaces or affect them in any way. INTANGIBLE characters cannot occupy or score objectives."
+      },
       "Jammed": {
         "name": "Jammed",
         "effect": "JAMMED characters can’t:<br>• use comms to talk to other characters;<br>• make attacks, other than IMPROVISED ATTACK, GRAPPLE, and RAM;<br>• take reactions, or take or benefit from tech actions."

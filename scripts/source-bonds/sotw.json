@@ -1,0 +1,383 @@
+[
+  {
+    "id": "sotw-bond-firebrand",
+    "name": "The Firebrand",
+    "major_ideals": [
+      "I addressed challenges with charisma, iconoclasm, or dedication.",
+      "I expressed my heritage, background, or beliefs through my actions.",
+      "I struggled with issues from my burdens or background."
+    ],
+    "minor_ideals": [
+      "I successfully challenged a long-held or foundational idea.",
+      "I stood up for what was right despite great risk.",
+      "I inspired others to revolutionary action.",
+      "I fought even when the challenge seemed insurmountable."
+    ],
+    "questions": [
+      {
+        "question": "What gives you your powers?",
+        "options": [
+          "An unshakeable conviction or faith.",
+          "The support and solidarity of your comrades.",
+          "The vivid memory of those you could not save."
+        ]
+      },
+      {
+        "question": "What do you fight for?",
+        "options": [
+          "Freedom for the enslaved and indentured.",
+          "Justice for the mistreated and the downtrodden.",
+          "An end to the established order.",
+		  "A better world for those who come after."
+        ]
+      }
+    ],
+    "powers": [
+      {
+        "name": "Strength In Conviction",
+		"frequency": "1/session",
+        "description": "When you openly declare your cause for all to hear, take +1 ACCURACY and increased effect on your next skill check against a person who heard you."
+      },
+      {
+        "name": "Solidarity",
+        "description": "When you push yourself to help an ally with a skill check, they add +2 ACCURACY rather than +1."
+      },
+	  {
+        "name": "The Power Of Friendship",
+        "frequency": "1/session",
+        "description": "Name an allied or friendly NPC. As long as it is plausible for them to do so, that NPC shows up to help for the rest of the scene and the GM chooses one:<ul><li>They suffer harm or personal cost to do so.</li><li>They send someone else in their place.</li><li>They bring trouble with them.</li><li>They won't help you like this again until you do them a favor.</li></ul>"
+      },
+      {
+        "name": "Tenacity",
+        "description": "When you push yourself to reroll a skill check, you may take an additional STRESS. If you do, gain +1 ACCURACY."
+      },
+      {
+        "name": "Weight of the World",
+		"frequency": "1/session",
+        "description": "When you encounter someone who is imprisoned, oppressed, or has suffered a great injustice, you may gain a burden. Until the burden is healed, you gain +1 ACCURACY and increased effect on all checks to help or aid them."
+      },
+      {
+        "name": "Fuck You",
+        "description": "When you break, you may take one last action before you lose control. Gain +1 ACCURACY and increased effect on this action."
+      },
+      {
+        "name": "Iconoclast",
+        "description": "You gain increased effect whenever you take action against an entrenched institution, tradition, or long-held belief."
+      },
+      {
+        "name": "Together We Are Strong",
+		"frequency": "1/session",
+        "description": "When you successfully convince someone to join your side, each of your allies who witnessed the conversion clears 1 STRESS."
+      },
+      {
+        "name": "Inspiring Leader",
+        "description": "Each downtime when you roll for an organization you created, you may roll an additional d20 and choose the highest for the final result."
+      },
+      {
+        "name": "Raise The Banner",
+        "frequency": "1/session",
+        "description": "When you fly a flag, openly display an emblem, or prominently graffiti a symbol or slogan associated with your cause, you can attempt to provoke an enemy to act against you. The GM chooses one:<ul><li>Their response is hasty, or they make a mistake.</li><li>Their response rallies more people to your cause.</li><li>They do not respond immediately, but you gain increased effect on actions against them until they do.</li></ul>"
+      },
+      {
+        "name": "Boon of Rebellion",
+        "prerequisite": "If you have two or more powers from this bond, you can choose a power from any other bond instead of one from this bond when you would gain a power. You can do this twice. If you have at least one veteran power, gain the Boon of Rebellion.",
+        "description": "At the end of each session, if you can describe how someone struggled against the established order, do so. Give someone who participated in that struggle 1 XP.",
+        "veteran": true
+      },
+      {
+        "name": "Do You Hear The People Sing",
+        "prerequisite": "You may only gain this power If you’ve taken four powers from this bond, including the Veteran Power.",
+        "frequency": "1/session",
+        "description": "When you speak to a sympathetic crowd, you can inspire them to action. Name a cause or goal, and choose one:<ul><li>The crowd backs you up, and for the rest of the session they lend you +1 ACCURACY and increased effect on all actions to achieve your cause or goal while they are with you.</li><li>The crowd is inspired to action, and for the rest of the session they will attempt to achieve your cause or goal on their own initiative. At the end of the session (or when narratively appropriate), the GM describes what the crowd has achieved and the consequences of their actions.</li></ul>",
+        "master": true
+      }
+    ]
+  },
+  {
+    "id": "sotw-bond-celebrant",
+    "name": "The Celebrant",
+    "major_ideals": [
+      "I addressed challenges with enthusiasm, indulgence, or open-mindedness.",
+      "I expressed my heritage, background, or beliefs through my actions.",
+      "I struggled with issues from my burdens or background."
+    ],
+    "minor_ideals": [
+      "I embraced something I did not fully understand.",
+      "I sought out and indulged in pleasurable experiences.",
+      "I showed someone a different side of themselves.",
+      "I managed to find joy in bleak circumstances."
+    ],
+    "questions": [
+      {
+        "question": "What gives you your powers?",
+        "options": [
+          "A cosmopolitan upbringing among many diverse cultures.",
+          "A thrill-seeking drive that only grows when fed.",
+          "A certain awareness of death and the temporary nature of existence."
+        ]
+      },
+      {
+        "question": "What is your greatest pleasure?",
+        "options": [
+          "Unique cuisines and street food from across the Diaspora.",
+          "The fiery adrenaline high of combat.",
+          "Altered perception and otherworldly experiences.",
+          "Convincing someone to try something new."
+        ]
+      }
+    ],
+    "powers": [
+      {
+        "name": "Uninhibited",
+		"frequency": "1/session",
+        "description": "When you indulge in an activity that brings you great joy, you or an ally who joined you may fill in a segment of a burden."
+      },
+      {
+        "name": "Infectious Enthusiasm",
+		"frequency": "1/scene",
+        "description": "When you convince an ally to try something new, they gain +1 ACCURACY and increased effect on skill checks related to that experience or activity for the rest of the scene."
+      },
+      {
+        "name": "Break Bread",
+		"frequency": "1/session",
+        "description": "When you share a meal or a drink with someone, choose a person you shared with and pick one:<ul><li>They clear 1 STRESS.</li><li>You gain +1 ACCURACY and increased effect on social checks against them for the rest of the scene.</li></ul>"
+      },
+      {
+        "name": "Live And Learn",
+        "description": "When you fail a RISKY or HEROIC check, the next check you make using the same trigger gains +1 ACCURACY."
+      },
+      {
+        "name": "What Could Go Wrong?",
+		"frequency": "2/session",
+        "description": "When you or a willing ally makes a skill check, you may make that check RISKY (or make a RISKY check HEROIC). If you do, the person making the check gains +1 ACCURACY and increased effect."
+      },
+      {
+        "name": "The Good Stuff",
+		"frequency": "1/scene",
+        "description": "You always have a ready supply of alcohol, smokes, or tasty snacks, with more than enough to share. Once per scene in a situation where this helps, gain +1 ACCURACY and increased effect."
+      },
+      {
+        "name": "Bad Influence",
+		"frequency": "1/session",
+        "description": "You can convince a friendly NPC to take a risk against their better judgment. When you do, the GM chooses one:<ul><li>The consequences are severe.</li><li>You take the consequences.</li><li>They'll never do this again.</li></ul>"
+      },
+      {
+        "name": "Hook Up",
+        "description": "You usually know how to get hold of things rare, expensive, or otherwise scarce; if you don't, you know who does. You can always ask the GM exactly what needs to be done to acquire a rare item, and have increased effect on all actions to do so."
+      },
+      {
+        "name": "Friends In Strange Places",
+		"frequency": "1/session",
+        "description": "When you visit a new location for the first time, you may declare that you know someone there. Give them a name, and describe how you know them; they might be an old colleague, a contact, or someone unexpected from your past. They'll be willing to talk to you, and maybe even help you - but might need some convincing first."
+      },
+      {
+        "name": "Cosmopolitan",
+        "description": "When you encounter a new culture, subculture, or society, ask one of the following questions and get a truthful answer from the GM:<ul><li>What does this group value?</li><li>What does this group detest?</li><li>How can I best blend in?</li></ul>You or an ally of your choice gets +1 ACCURACY on their next skill check to act on the answer."
+      },
+      {
+        "name": "Boon of the Open Mind",
+        "prerequisite": "If you have two or more powers from this bond, you can choose a power from any other bond instead of one from this bond when you would gain a power. You can do this twice. If you have at least one veteran power, gain the Boon of the Open Mind.",
+        "description": "At the end of the session, describe how an experience changed or expanded your worldview. Give someone who shared that experience 1 XP.",
+        "veteran": true
+      },
+      {
+        "name": "The Beautiful Life",
+        "prerequisite": "You may only gain this power If you’ve taken four powers from this bond, including the Veteran Power.",
+        "frequency": "1/session",
+        "description": "For the rest of the scene, you or an ally of your choice can defer the consequences of all skill checks. They all catch up to you at the end of the scene. If deferred consequences would cause you to break one or more times, you are not removed from a scene but take burdens as usual.",
+        "master": true
+      }
+    ]
+  },
+  {
+    "id": "sotw-bond-knave",
+    "name": "The Knave",
+    "major_ideals": [
+      "I addressed challenges with resolve, ruthlessness, or ambition.",
+      "I expressed my heritage, background, or beliefs through my actions.",
+      "I struggled with issues from my burdens or background."
+    ],
+    "minor_ideals": [
+      "I set an impossible goal and achieved it anyway.",
+	  "I humiliated or brought low a rival.",
+	  "I took something important or irreplaceable for myself.",
+	  "I paid the price for my ambition."
+    ],
+    "questions": [
+      {
+        "question": "What gives you your powers?",
+        "options": [
+          "An upbringing where you had to take what you needed to survive.",
+          "An uncompromising mentor who taught you tough lessons.",
+          "A heart hardened by betrayal or great injustice."
+        ]
+      },
+      {
+        "question": "What would you give up to achieve your goals?",
+        "options": [
+          "Your dignity.",
+          "Your safety.",
+          "Your principles.",
+		  "Your reputation."
+        ]
+      }
+    ],
+    "powers": [
+      {
+        "name": "I'll Do It Myself",
+        "frequency": "2/session",
+        "description": "When an ally fails a skill check, you may attempt that check yourself using the same trigger. Your ally still takes any consequences from failing the check."
+      },
+	  {
+        "name": "Ruthless",
+        "frequency": "1/session",
+        "description": "When you would take a consequence, you may instead choose a friendly NPC who is present in the scene. That NPC takes the consequence, and then becomes your enemy."
+      },
+	  {
+        "name": "White Whale",
+        "description": "Declare a nemesis (a major antagonist, a powerful organization, an abstract concept). When you score a significant victory over your nemesis, you and each ally who helped clear 1 STRESS. When you defeat your nemesis for good, you or someone who helped you gains 1 XP. You may only have a single nemesis at once, but may change your nemesis during downtime."
+      },
+	  {
+        "name": "Shoot First",
+        "frequency": "1/session",
+        "description": "When you are tricked or double-crossed, describe how you prepared for this scenario and are able to turn it to your advantage. The GM picks one:<ul><li>You take the consequences, but gain +1 ACCURACY and increased effect against your adversary for the rest of the scene.</li><li>You are able to avoid the consequences, though your allies may not be so lucky.</li><li>You get to act first.</li></ul>"
+      },
+	  {
+        "name": "Heartbreaker",
+		"frequency": "1/session",
+        "description": "When you break something significant to another person (a relationship, an object, hard-earned trust), gain +1 ACCURACY and increased effect on all rolls against that person for the rest of the scene."
+      },
+	  {
+        "name": "Out Of My Way",
+        "frequency": "1/session",
+        "description": "When someone blocks your path or prevents you from getting what you want, describe how you confront them. You gain +1 ACCURACY and increased effect against them for the rest of the scene."
+      },
+	  {
+        "name": "From Hell's Heart",
+        "description": "When you break and are removed from the scene, choose an NPC who is present; they are also removed."
+      },
+	  {
+        "name": "Eyes On The Prize",
+        "description": "You may forgo healing STRESS at the start of your downtime. If you do, gain +1 ACCURACY on the roll for your downtime action."
+      },
+	  {
+        "name": "Where There's A Will",
+        "frequency": "1/session",
+        "description": "When you come across an impossible scenario or puzzle that seems to have no solution, describe your determined efforts to tackle it anyway. The GM chooses one:<ul><li>You uncover a solution, but it’s extremely dangerous.</li><li>You uncover a solution, but it requires something you don’t have yet (a specific person or object, a key piece of information, backing or influence).</li><li>You confirm that it is truly impossible, and clear 2 STRESS.</li></ul>"
+      },
+	  {
+        "name": "Bite The Bullet",
+        "frequency": "2/session",
+        "description": "When you fail a skill check, you may clear 2 segments from any of your burdens to reroll it. You must keep the new result. Whether you succeed or fail, you take any consequences from the check."
+      },
+      {
+        "name": "Boon of Triumph",
+        "prerequisite": "If you have two or more powers from this bond, you can choose a power from any other bond instead of one from this bond when you would gain a power. You can do this twice. If you have at least one veteran power, gain the Boon of Triumph.",
+        "description": "At the end of the session, describe how you got what you wanted. Give someone who helped you 1 XP.",
+        "veteran": true
+      },
+      {
+        "name": "Do or Die",
+        "prerequisite": "You may only gain this power If you’ve taken four powers from this bond, including the Veteran Power.",
+        "frequency": "1/session",
+        "description": "Once per session, when you make a HEROIC skill check, you succeed on a 10+. If you succeed, you gain increased effect as you achieve your objective in spectacular fashion. If you fail, you suffer increased consequences as you crash and burn.",
+        "master": true
+      }
+    ]
+  },
+  {
+    "id": "sotw-bond-seneschal",
+    "name": "The Seneschal",
+    "major_ideals": [
+      "I addressed challenges with honor, loyalty, or integrity.",
+      "I expressed my heritage, background, or beliefs through my actions.",
+      "I struggled with issues from my burdens or background."
+    ],
+    "minor_ideals": [
+      "I spared or extended grace to a defeated opponent.",
+      "I stood by a friend or ally despite dire consequences.",
+      "I swore a solemn and unbreakable vow.",
+      "I made restitution to someone harmed by my actions."
+    ],
+    "questions": [
+      {
+        "question": "What gives you your powers?",
+        "options": [
+          "An ironclad personal code of honor.",
+          "A family legacy stretching back centuries.",
+          "The knowledge of your privilege and a sense of responsibility to those less fortunate."
+        ]
+      },
+      {
+        "question": "What vow have you sworn?",
+        "options": [
+          "To never allow an innocent to come to harm.",
+          "To preserve the traditions and uphold the values of your culture.",
+          "To repent for an unforgivable mistake.",
+		  "To stand by your friends and family, no matter the cost."
+        ]
+      }
+    ],
+    "powers": [
+      {
+        "name": "Steadfast Ally",
+        "frequency": "2/session",
+        "description": "When you push yourself to help another character, you do not take STRESS unless they succeed. You still share in any consequences by helping."
+      },
+	  {
+        "name": "Stewardship",
+        "frequency": "1/session",
+        "description": "When a group of people, organization, or object you are leading or protecting would take losses, damage, or other harm, you may instead take consequences (minor, typical, or major) in proportion to the harm they would suffer."
+      },
+	  {
+        "name": "My Word Is My Bond",
+        "frequency": "2/session",
+        "description": "When you make a solemn promise or swear that you will achieve a goal, take 1 STRESS. When you fulfil that promise or achieve that goal, clear 2 STRESS."
+      },
+	  {
+        "name": "Clarion",
+        "description": "When you speak the truth in full knowledge and without intent to deceive, everyone who hears you knows that what you are saying is true."
+      },
+	  {
+        "name": "Responsibility",
+        "description": "When you discover that someone important to you (a trusted friend, a family member, a mentor or student) is in danger, your next skill check to help them this scene gains +1 ACCURACY and increased effect."
+      },
+	  {
+        "name": "Its Own Reward",
+        "frequency": "1/session",
+        "description": "When you help or give to another character in a way that causes consequences for yourself, you may fill in a section of a burden."
+      },
+	  {
+        "name": "Forbearance",
+        "frequency": "1/session",
+        "description": "When you offer forgiveness or freedom to a defeated enemy, the GM chooses one:<ul><li>They accept the consequences of defeat.</li><li>They escape, vowing revenge against you and your allies. All allies present gain 1 XP.</li></ul>"
+      },
+	  {
+        "name": "Champion's Heart",
+        "frequency": "2/session",
+        "description": "When you or an ally makes a skill check to help a vulnerable or powerless person, gain +1 ACCURACY and increased effect."
+      },
+	  {
+        "name": "The Best Kind Of Correct",
+        "description": "You have a talent for dealing with institutions (governmental, academic, military) and navigating their bureaucracies. When dealing with or managing large organizations you instinctively understand their rules, and can always cut through red tape or get a meeting with the right person.  In situations where this helps, gain +1 ACCURACY and increased effect."
+      },
+	  {
+        "name": "Shivers",
+        "description": "When you enter a scene, you may take 2 STRESS to ask the GM whether someone present is planning to betray or cheat you, and receive a truthful answer. This doesn't tell you who, or how."
+      },
+      {
+        "name": "Boon of Integrity",
+        "prerequisite": "If you have two or more powers from this bond, you can choose a power from any other bond instead of one from this bond when you would gain a power. You can do this twice. If you have at least one veteran power, gain the Boon of Integrity.",
+        "description": "At the end of the session, describe how someone else made the right choice despite personal cost. Give them 1 XP.",
+        "veteran": true
+      },
+      {
+        "name": "Durendal, My Brand",
+        "prerequisite": "You may only gain this power If you’ve taken four powers from this bond, including the Veteran Power.",
+        "frequency": "1/session",
+        "description": "You may give a name to a weapon, ship, or other object belonging to you or a willing ally. Once per session, the item’s owner may invoke its name for +1 ACCURACY and increased effect on a relevant skill check. If the item is ever lost or damaged beyond repair, the item’s owner gains a burden.<br>You can name multiple items, but a character may only own one named item at a time. If they acquire a second named item, the first loses this benefit.",
+        "master": true
+      }
+    ]
+  }
+]
